@@ -1,0 +1,4 @@
+ConfigArgParse==1.2.3
+opencv_python==4.1.2.30
+numpy==1.16.5
+mxnet_cu101==1.6.0b20191125
